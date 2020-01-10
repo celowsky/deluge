@@ -28,6 +28,7 @@ Unfortunately due to move to GTK3 and Python 3 there is no installer package cur
 available for Windows.
 
 Intrepid users can install Deluge from separate packages as detailed in [issue #3201].
+*Update 2020-01-09: This is no longer possible as the build artifact linked in the issue has been removed from AppVeyor.*
 
 ## <i class="fa fa-apple"></i> macOS
 
